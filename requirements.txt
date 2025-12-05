@@ -1,0 +1,10 @@
+# CDR Decomposition Pipeline Requirements
+# This project uses only Python standard library modules
+# No external packages are required for the core functionality
+
+# Optional: If you want to specify a minimum Python version
+# python>=3.8
+
+# Note: LibreOffice is required as an external system dependency
+# Install with: sudo apt install libreoffice (on Ubuntu/Debian)
+#              brew install --cask libreoffice (on macOS)
