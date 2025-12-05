@@ -1,0 +1,8 @@
+MIME type: image/png
+File size: 134996 bytes
+Element attributes:
+  x: 77281
+  y: 20024
+  width: 3543
+  height: 1711
+  preserveAspectRatio: none
